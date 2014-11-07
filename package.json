@@ -1,6 +1,6 @@
 {
   "name": "exec-spawn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wrapper of spawn that can be used as exec.",
   "main": "index.js",
   "directories": {
