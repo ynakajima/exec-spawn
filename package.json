@@ -1,0 +1,30 @@
+{
+  "name": "exec-spawn",
+  "version": "1.0.0",
+  "description": "wrapper of spawn that can be used as exec.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ynakajima/exec-spawn.git"
+  },
+  "keywords": [
+    "exec",
+    "spawn"
+  ],
+  "author": "ynakajima <yuhta.nakajima@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynakajima/exec-spawn/issues"
+  },
+  "homepage": "https://github.com/ynakajima/exec-spawn",
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^2.0.1"
+  }
+}
